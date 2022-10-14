@@ -98,6 +98,13 @@ nav {
   cursor: pointer;
 }
 
+.cart-container {
+}
+
+.item-container {
+  display: flex;
+}
+
 footer {
   grid-area: footer;
   height: 80px;
